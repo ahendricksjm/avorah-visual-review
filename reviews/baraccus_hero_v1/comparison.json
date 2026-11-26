@@ -5,14 +5,27 @@
     "model_sha256": "a18627c1516671b7e8e72ce98286cd622528af9bead77ab2793ae39989e0c6e8",
     "bytes": 2721252,
     "triangles": 27742,
-    "materials": 12
+    "materials": 12,
+    "atlases": {
+      "baraccus_Brown_Straps_painted_color.png": "16c162a0381c7a2f058c3a21406252fd8045127209457fbd1cc163a610dc47fc",
+      "baraccus_Costume_baraccus_painted_color.png": "71e5d7f18e8ecf41d319e3d6d7147828ebb992fa00f71061cbcc448e944ae08c",
+      "baraccus_Worn_Black_Leather_painted_color.png": "b0ceecb16b189ace9a78f1c0a6837650a906f8833386b676c49dac5d85ac3041"
+    }
   },
   "candidate": {
-    "source_sha": "de2ecd4fbb29c8c89902c3187cbdedc639560ee6",
+    "source_sha": "915dcbb0a3d623cf452b3149efeb227e71d841c2",
     "model": "res://assets/3d/heroes/baraccus/baraccus.glb",
     "model_sha256": "f66d640dcee67df46d705b2a532ecfeff9c48bfe075ff7d3a28eb7629c79bbcc",
     "bytes": 2161416,
     "triangles": 28199,
-    "materials": 3
+    "materials": 3,
+    "atlases": {
+      "cloth_skin_albedo.png": "175cd1630023ed2debc79057a32c0a68c5b7161cefba268761a5ca4acbef298a",
+      "cloth_skin_orm.png": "b31584122f8d289f566790d2845df49939e2aa839fc206ab20b36c981e95de73",
+      "hair_albedo.png": "cdb7b79efd930233b2560ccac4a90f79a3d37e23eeff0381a93777bbc443e4c8",
+      "hair_orm.png": "73fa11b130a5d7cbc71c8dcf559c986fc71e889323171ee53711a0cd707056f1",
+      "leather_metal_albedo.png": "82f131c2454320299505fc70affcd98c979fb80056b8fbac51e9ca58df5520c8",
+      "leather_metal_orm.png": "569ae3d2afb8dd2348e9e670106d13b417780822450ec6b93d659f955ed048af"
+    }
   }
 }
