@@ -1,0 +1,18 @@
+{
+  "main": {
+    "source_sha": "4bff62968f7b752291f01bc59a67d1d1cf22b939",
+    "model": "res://assets/3d/heroes/baraccus/batch/baraccus.glb",
+    "model_sha256": "a18627c1516671b7e8e72ce98286cd622528af9bead77ab2793ae39989e0c6e8",
+    "bytes": 2721252,
+    "triangles": 27742,
+    "materials": 12
+  },
+  "candidate": {
+    "source_sha": "de2ecd4fbb29c8c89902c3187cbdedc639560ee6",
+    "model": "res://assets/3d/heroes/baraccus/baraccus.glb",
+    "model_sha256": "f66d640dcee67df46d705b2a532ecfeff9c48bfe075ff7d3a28eb7629c79bbcc",
+    "bytes": 2161416,
+    "triangles": 28199,
+    "materials": 3
+  }
+}
